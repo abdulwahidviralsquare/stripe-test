@@ -70,7 +70,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-
 Hi we're looking for someone that will help us integrate Stripe into our platform. The exact details are laid out below:
 
 - Payment Gateway Integration with Stripe on Laravel 8/9 - Stripe's SDK can be used
